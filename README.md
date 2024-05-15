@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Abbas</h1>
-<h3 align="center">A passionate Web3/Backend Enginner from Pakistan</h3>
+<h3 align="center">A passionate Web3/Backend Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasibneakram&label=Profile%20views&color=0e75b6&style=flat" alt="abbasibneakram" /> </p>
 
